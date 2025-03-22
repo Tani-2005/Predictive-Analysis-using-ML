@@ -18,3 +18,4 @@ This Python script constructs and evaluates a linear regression model to predict
 Mean Squared Error: 324.3631346814512
 R-squared Score: 0.3924578780858481
 Predicted Air Quality Value: 32.5925029063729
+![Image](https://github.com/user-attachments/assets/3185bc4d-1f40-49c4-a71b-ee8066c1fea7)
